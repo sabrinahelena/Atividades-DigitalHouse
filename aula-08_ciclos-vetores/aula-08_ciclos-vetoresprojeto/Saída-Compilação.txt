@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: aula-08_ciclos-vetoresprojeto, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>aula-08_ciclos-vetoresprojeto -> C:\Users\anderlanys\Desktop\Aula_8\aula-08_ciclos-vetoresprojeto\aula-08_ciclos-vetoresprojeto\bin\Debug\net6.0\aula-08_ciclos-vetoresprojeto.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========

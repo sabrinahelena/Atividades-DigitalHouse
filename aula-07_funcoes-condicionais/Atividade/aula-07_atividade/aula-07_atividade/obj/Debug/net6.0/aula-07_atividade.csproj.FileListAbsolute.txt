@@ -1,0 +1,15 @@
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\bin\Debug\net6.0\aula-07_atividade.exe
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\bin\Debug\net6.0\aula-07_atividade.deps.json
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\bin\Debug\net6.0\aula-07_atividade.runtimeconfig.json
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\bin\Debug\net6.0\aula-07_atividade.dll
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\bin\Debug\net6.0\aula-07_atividade.pdb
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\aula-07_atividade.csproj.AssemblyReference.cache
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\aula-07_atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\aula-07_atividade.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\aula-07_atividade.AssemblyInfo.cs
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\aula-07_atividade.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\aula-07_atividade.dll
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\refint\aula-07_atividade.dll
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\aula-07_atividade.pdb
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\aula-07_atividade.genruntimeconfig.cache
+C:\Users\DiverseDev\Desktop\Aulas - Digital House\aula-07_funcoes e condicionais\Atividade\aula-07_atividade\aula-07_atividade\obj\Debug\net6.0\ref\aula-07_atividade.dll
