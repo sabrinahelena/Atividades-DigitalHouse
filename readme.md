@@ -18,5 +18,6 @@
 - ### [Atividade - Tratamento de erro](./aula-09_tratamento-de-erro/)
 - ### [Atividade - Enum e Dicitonary](./aula13-enum_dictionary/)
 - ### [Atividade - WPF, bloco de notas](./Aula16_WPF/)
+- ### [Atividade - Introdução e configuração SGBD SQL Server](./Aula21_SQL/)
 
 
