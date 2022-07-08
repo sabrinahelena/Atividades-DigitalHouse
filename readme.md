@@ -20,6 +20,7 @@
 - ### [Atividade - WPF, bloco de notas](./Aula16_WPF/)
 - ### [Atividade - Introdução e configuração SGBD SQL Server](./Aula21_SQL/)
 - ### [Atividade - Relações entre tabelas - SQL Server](./aula22_SQLFK/)
+- ### [Atividade - JOIN](./aula25_SQLJoins/)
 
 
 
