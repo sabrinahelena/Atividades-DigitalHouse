@@ -160,6 +160,7 @@ select
 
 SELECT hora_nascimento, count(*) from bebe group by hora_nascimento having count(*)>1 
 
+SELECT bebe.hora_nascimento, count(bebe.hora_nascimento) from bebe group by  bebe.hora_nascimento
 
 
 --Todos os bebês que nasceram entre 22:00 e 5:00, que não possuem mãe no cadastro.

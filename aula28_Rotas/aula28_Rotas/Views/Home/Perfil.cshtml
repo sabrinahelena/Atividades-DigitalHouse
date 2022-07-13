@@ -1,0 +1,51 @@
+﻿@model List<MateriasModel>
+
+
+
+<div style="background-color:#F3F3F3;">
+    <h3> 🎓 App Escola </h3>
+</div>
+
+<h2>#1 Willian Sant Anna</h2>
+<br />
+
+<p>31/08/90 <span style="color: gray"> (32 anos)</span></p>
+<p>Rua Tribal, 68 -  Recreio dos Banderantes, Rio De Janeiro</p>
+
+<br />
+<br />
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Matéria</th>
+                <th scope="col">1</th>
+                <th scope="col">2</th>
+                <th scope="col">3</th>
+                <th scope="col">4</th>
+                <th scope="col">Status</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var materias in Model)
+            {
+                if (@materias.Status == "Aprovado")
+                {
+                    <tr>
+                        <th scope="row">@materias.Materia</th>
+                        <td>@materias.NotaUm</td>
+                        <td>@materias.NotaDois</td>
+                        <td>@materias.NotaTres</td>
+                        <td>@materias.NotaQuatro</td>
+                        <td>@materias.Status</td>
+
+                    </tr>
+                }
+               
+            }
+        </tbody>
+
+    </table>
+</div>

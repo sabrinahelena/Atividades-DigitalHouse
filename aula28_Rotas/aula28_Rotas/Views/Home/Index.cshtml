@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "App Escola";
+}
+<div style="background-color:#F3F3F3;">
+    <h3> 🎓 App Escola </h3>
+</div>
+
+
+<div class="container mt-5">
+    <div class="row mb-3">
+        <div class="col">
+            <h1 class="h1">#1 Turma</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <input class="form-control form-control-lg"
+                   type="text"
+                   placeholder="Digite o nome do aluno..."
+                   aria-label="Digite o nome do aluno..." />
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-lg btn-primary">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                </svg>
+            </button>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+
+@model List<PersonModel>;
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Sobrenome</th>
+                <th scope="col">Status</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var pessoas in Model)
+            {
+                if (@pessoas.Status == "Aprovado")
+                {
+                    <tr>
+                        <th scope="row">@pessoas.id</th>
+                        <td>@pessoas.Nome</td>
+                        <td>@pessoas.Sobrenome</td>
+                        <td>@pessoas.Status</td>
+                    </tr>
+                }
+                else if (@pessoas.Status == "Reprovado")
+                {
+                    <tr class="table-danger">
+                        <th scope="row">@pessoas.id</th>
+                        <td>@pessoas.Nome</td>
+                        <td>@pessoas.Sobrenome</td>
+                        <td>@pessoas.Status</td>
+                    </tr>
+                }
+                else if (@pessoas.Status == "Recuperação")
+                {
+                    <tr class="table-warning">
+                        <th scope="row">@pessoas.id</th>
+                        <td>@pessoas.Nome</td>
+                        <td>@pessoas.Sobrenome</td>
+                        <td>@pessoas.Status</td>
+                    </tr>
+                }
+            }
+        </tbody>
+
+    </table>
+</div>

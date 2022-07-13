@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "aula28_Rotas/1.0.0": {
+        "runtime": {
+          "aula28_Rotas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula28_Rotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
