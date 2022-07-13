@@ -21,6 +21,7 @@
 - ### [Atividade - Introdução e configuração SGBD SQL Server](./Aula21_SQL/)
 - ### [Atividade - Relações entre tabelas - SQL Server](./aula22_SQLFK/)
 - ### [Atividade - JOIN](./aula25_SQLJoins/)
-
+- ### [Atividade - Bootstrap e Razor usando ASPNET](./Aula27_Bootstrap_e_Razor/)
+- ### [Atividade - Rotas usando bootstrap e razor, ASPNET](./aula28_Rotas/)
 
 
