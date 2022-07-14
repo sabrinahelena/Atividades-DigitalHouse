@@ -6,6 +6,8 @@
     <h3> 🎓 App Escola </h3>
 </div>
 
+<br />
+
 <h2>#1 Willian Sant Anna</h2>
 <br />
 
@@ -31,8 +33,7 @@
         <tbody>
             @foreach (var materias in Model)
             {
-                if (@materias.Status == "Aprovado")
-                {
+                
                     <tr>
                         <th scope="row">@materias.Materia</th>
                         <td>@materias.NotaUm</td>
@@ -42,7 +43,7 @@
                         <td>@materias.Status</td>
 
                     </tr>
-                }
+             
                
             }
         </tbody>

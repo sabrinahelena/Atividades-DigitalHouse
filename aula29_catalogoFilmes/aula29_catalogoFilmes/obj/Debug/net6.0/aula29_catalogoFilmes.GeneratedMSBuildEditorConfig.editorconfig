@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = aula29_catalogoFilmes
+build_property.RootNamespace = aula29_catalogoFilmes
+build_property.ProjectDir = C:\Users\DiverseDev\Desktop\Aulas - Digital House\Atividades-DigitalHouse\aula29_catalogoFilmes\aula29_catalogoFilmes\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DiverseDev\Desktop\Aulas - Digital House\Atividades-DigitalHouse\aula29_catalogoFilmes\aula29_catalogoFilmes
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Ator/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Ator/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Ator/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Ator/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Ator/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/FIlme/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRklsbWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/FIlme/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRklsbWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/FIlme/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRklsbWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/FIlme/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRklsbWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/FIlme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRklsbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DiverseDev/Desktop/Aulas - Digital House/Atividades-DigitalHouse/aula29_catalogoFilmes/aula29_catalogoFilmes/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1alvr5mp95
