@@ -1,7 +1,5 @@
 ﻿@model List<MateriasModel>
 
-
-
 <div style="background-color:#F3F3F3;">
     <h3> 🎓 App Escola </h3>
 </div>
@@ -36,8 +34,14 @@
                 
                     <tr>
                         <th scope="row">@materias.Materia</th>
-                        <td>@materias.NotaUm</td>
-                        <td>@materias.NotaDois</td>
+                        @if(@materias.NotaUm < 6 ){
+                        <td class="table-danger">@materias.NotaUm</td>
+                    }
+                    else if(@materias.NotaUm >=6 && @materias.NotaUm < 7)
+                    {
+                         <td class="table-warning">@materias.NotaUm</td>
+                    }
+                    <td>@materias.NotaDois</td>
                         <td>@materias.NotaTres</td>
                         <td>@materias.NotaQuatro</td>
                         <td>@materias.Status</td>

@@ -38,7 +38,7 @@ namespace aula28_Rotas.Controllers
             materias.Add(new MateriasModel() { Materia = "Português", NotaUm = 5, NotaDois = 6.5, NotaTres = 6.5, NotaQuatro = 0, Status = "Reprovado" });
             materias.Add(new MateriasModel() { Materia = "Matemática", NotaUm = 10, NotaDois = 8, NotaTres = 8, NotaQuatro = 8, Status = "Aprovado" });
             materias.Add(new MateriasModel() { Materia = "Ciências", NotaUm = 6, NotaDois = 7.5, NotaTres = 8, NotaQuatro = 8, Status = "Aprovado" });
-            materias.Add(new MateriasModel() { Materia = "História", Notas = new NotasModel() { NotasHistoria = 1 }, Status = "Aprovado" }) ;
+            materias.Add(new MateriasModel() { Materia = "História", NotaUm = 8, NotaDois = 9, NotaTres = 10, NotaQuatro = 7.5, Status = "Aprovado" });
 
             
 

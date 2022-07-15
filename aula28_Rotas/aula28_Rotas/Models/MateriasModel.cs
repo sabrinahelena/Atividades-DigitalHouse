@@ -8,5 +8,6 @@
         public double NotaTres { get; set; }
         public double NotaQuatro { get; set; }
         public string Status { get; set; }
+        public NotasModel Notas { get; set; }
     }
 }
