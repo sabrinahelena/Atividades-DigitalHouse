@@ -24,6 +24,6 @@
 - ### [Atividade - Bootstrap e Razor usando ASPNET](./Aula27_Bootstrap_e_Razor/)
 - ### [Atividade - Rotas usando bootstrap e razor, ASPNET](./aula28_Rotas/)
 - ### [Atividade - Usando Entity](./aula29_catalogoFilmes/)
-
+- ### [Atividade - Entitiy, SQL e Relações](./aula30_EntityRelacionamento/)
 
 
