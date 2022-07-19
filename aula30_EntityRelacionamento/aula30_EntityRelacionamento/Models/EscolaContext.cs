@@ -30,6 +30,11 @@ namespace aula30_EntityRelacionamento.Models
 
         }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder Config)
+        {
+            String Credencial = @"";
+            Config.UseSqlServer(Credencial);
+        }
         public DbSet<aula30_EntityRelacionamento.Models.Aluno>? Aluno { get; set; }
 
     }
