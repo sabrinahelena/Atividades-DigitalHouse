@@ -1,0 +1,152 @@
+{
+	"info": {
+		"_postman_id": "f6bc6030-dd28-4362-be71-dd89c69eed00",
+		"name": "Escola",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20767491"
+	},
+	"item": [
+		{
+			"name": "Alunos",
+			"item": [
+				{
+					"name": "RetornarAlunos",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "AdicionarAluno",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": 1,\r\n  \"nome\": \"Iasmim\",\r\n  \"sobrenome\": \"Vivanco\",\r\n  \"curso\": {\r\n    \"id\": 1,\r\n    \"nome\": \"back-end\",\r\n    \"alunos\": [\r\n      \"Iasmimm\"\r\n    ]\r\n  }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7161/api/Alunos",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7161",
+							"path": [
+								"api",
+								"Alunos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeletarAluno",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7161/api/Cursos/3",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7161",
+							"path": [
+								"api",
+								"Cursos",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "RetornarAlunoPeloId",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Cursos",
+			"item": [
+				{
+					"name": "RetornarCurso",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "RetornarCursoPeloId",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "AdicionarCurso",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": 1,\r\n  \"nome\": \"Iasmim\",\r\n  \"sobrenome\": \"Vivanco\",\r\n  \"curso\": {\r\n    \"id\": 1,\r\n    \"nome\": \"back-end\",\r\n    \"alunos\": [\r\n      \"Iasmimm\"\r\n    ]\r\n  }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7161/api/Alunos",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7161",
+							"path": [
+								"api",
+								"Alunos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeletarCurso",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7161/api/Cursos/3",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7161",
+							"path": [
+								"api",
+								"Cursos",
+								"3"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
