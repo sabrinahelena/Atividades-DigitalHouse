@@ -26,6 +26,7 @@
 - ### [Atividade - Usando Entity](./aula29_catalogoFilmes/)
 - ### [Atividade - Entitiy, SQL e Relações](./aula30_EntityRelacionamento/)
 - ### [Atividade - Introdução API WEB](https://github.com/lanyarag/IntroducaoAPI)
+- ### [Atividade - Postman](./aula32_Postman/)
 
 
 
